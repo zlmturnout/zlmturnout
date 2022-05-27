@@ -1,0 +1,71 @@
+<!--
+**Github/zlmturnout~ This is my personal Github repository** its <README.md> (this file) appears on my GitHub profile.
+-->
+<!-- Title-->
+# Hi, VerTicaL@zlm/zlmturnout here! <img src="/img/handrubber.gif" width="40" type="image/gif"/>
+<!-- Coding Badges-->
+[![Python](https://img.shields.io/badge/-Python%20-%233776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/-C%2FC%2B%2B%20-brightgreen?style=flat&logo=Claris)](https://www.stroustrup.com/)
+[![MarkDown](https://img.shields.io/badge/-Markdown-ff69b4?style=flat&logo=Markdown)](https://markdown.com.cn/basic-syntax/)
+[![PyCharm](https://img.shields.io/badge/-Pycharm-%2319A974?style=flat&logo=Pycharm)](https://www.jetbrains.com/pycharm/)
+[![VScode](https://img.shields.io/badge/-VScode-%23007ACC?style=flat&logo=Visual%20Studio%20Code)](https://code.visualstudio.com/)
+[![EPICS](https://img.shields.io/badge/-EPICS-informational?style=flat&logo=Co-op)](https://epics-controls.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white&style=flat)](https://www.w3.org)
+[![CSS3](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white&style=flat)](https://www.w3.org)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://javascript.com)
+[![GitHub](https://img.shields.io/badge/Source-Github-3481FE?style=flat&logo=GitHub)](https://github.com)
+[![Git](https://img.shields.io/badge/VersionControl-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
+
+<a> About Me </a>  
+![pangtouyu](/img/pangtouyu.png)
+
+<font color=AliceBlue> **Welcome to my Github profile, Currently a movitated researcher/engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
+
+## Code Style
+
+### In my dream  
+
+<!--**Commit with Love && Learn with Passion && Code with Paitence**-->
+
+![Love](https://img.shields.io/badge/-Commit%20with%20Love-EF1970?style=for-the-badge&logo=Undertale) ![Love](https://img.shields.io/badge/-Learn%20with%20Passion-35aeeb?style=for-the-badge&logo=React&logoColor=white) ![Love](https://img.shields.io/badge/-Code%20with%20Paitence-ec5317?style=for-the-badge&logo=Odysee)
+
+### In actual life
+
+![BugBug](/img/BugBugBug.jpg)![NoCoding](/img/Nocoding.jpg) ![NoBug](/img/NoBug.jpg)
+
+## Contact Me
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com)
+
+## GitHub stats
+
+[
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=zlmturnout&theme=dracula&show_icons=true)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zlmturnout&theme=react&border=e752f2&hide_border=false)
+](https://github.com/zlmturnout)
+
+[My Website hosted in github.io](https://zlmturnout.github.io/)
+
+## Enjoy Pictures from ShangHai
+
+![celebrate](/img/IMG_20210701_203624.jpg)
+
+## Relax time
+
+**The three-thousand-island lake ,ZheJiang Province**
+![qiandaohu1](/img/IMG_20211004_085751.jpg)
+![qiandaohu2](/img/IMG_20211003_143723.jpg)
+![qiandaohu3](/img/IMG_20211003_173817.jpg)
+
+---
+## Copyright
+
+Copyright (c) 2022 VerTicaL@zlm/zlmturnout
+[![Copyright](https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-FBB040?style=flat&logo=Claris)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+<!-- Visitors count-->
+**Total hits** 
+[![HitCount](https://hits.dwyl.com/zlmturnout/zlmturnout.svg?style=flat-square&show=unique)](http://hits.dwyl.com/zlmturnout/zlmturnout)
