@@ -36,7 +36,7 @@
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Limin-Zhou-4))
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Limin-Zhou-4)
 
 ## GitHub stats
 
