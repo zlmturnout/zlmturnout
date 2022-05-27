@@ -15,7 +15,7 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://javascript.com)
 [![GitHub](https://img.shields.io/badge/Source-Github-3481FE?style=flat&logo=GitHub)](https://github.com)
-[![Git](https://img.shields.io/badge/VersionControl-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
+[![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 
 <a> About Me </a>  
 ![pangtouyu](/img/pangtouyu.png)
@@ -61,7 +61,8 @@
 ---
 ## Copyright
 
-Copyright (c) 2022 VerTicaL@zlm/zlmturnout
+Copyright (c) 2022 VerTicaL@zlm/zlmturnout  
+
 [![Copyright](https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-FBB040?style=flat&logo=Claris)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
