@@ -53,7 +53,7 @@
 
 ## Relax time
 
-**The three-thousand-island lake ,ZheJiang Province**
+**The three-thousand-island lake, ZheJiang Province**
 ![qiandaohu1](/img/IMG_20211004_085751.jpg)
 ![qiandaohu2](/img/IMG_20211003_143723.jpg)
 ![qiandaohu3](/img/IMG_20211003_173817.jpg)
