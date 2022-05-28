@@ -18,7 +18,7 @@
 [![Git](https://img.shields.io/badge/VersionControl-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 
 <a> About Me </a>  
-![pangtouyu](/img/pangtouyu.png)
+![pangtouyu](/img/pangtouyu.png) ![fatfat](img/fatfat.jpg)
 
 <font color=AliceBlue> **Welcome to my Github profile, Currently a movitated researcher/engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
 
@@ -50,10 +50,11 @@
 ## Enjoy Pictures from ShangHai
 
 ![celebrate](/img/IMG_20210701_203624.jpg)
+![0701](/img/IMG_20210630_210319.jpg)
 
 ## Relax time
 
-**The three-thousand-island lake ,ZheJiang Province**
+**The three-thousand-island lake(千岛湖), ZheJiang Province**
 ![qiandaohu1](/img/IMG_20211004_085751.jpg)
 ![qiandaohu2](/img/IMG_20211003_143723.jpg)
 ![qiandaohu3](/img/IMG_20211003_173817.jpg)
