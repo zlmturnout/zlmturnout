@@ -14,7 +14,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?logo=css3&logoColor=white&style=flat)](https://www.w3.org)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://javascript.com)
-[![GitHub](https://img.shields.io/badge/Source-Github-3481FE?style=flat&logo=GitHub)](https://github.com)
+[![GitHub](https://img.shields.io/badge/-Github-3481FE?style=flat&logo=GitHub)](https://github.com)
 [![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 
 <a> About Me </a> 
