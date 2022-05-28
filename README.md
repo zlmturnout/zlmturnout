@@ -15,9 +15,9 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?logo=vuedotjs&logoColor=white&style=flat)](https://vuejs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://javascript.com)
 [![GitHub](https://img.shields.io/badge/Source-Github-3481FE?style=flat&logo=GitHub)](https://github.com)
-[![Git](https://img.shields.io/badge/VersionControl-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
+[![Git](https://img.shields.io/badge/-Git-f34f29?logo=git&logoColor=white&style=flat)](https://git-scm.com)
 
-<a> About Me </a>  
+<a> About Me </a> 
 ![pangtouyu](/img/pangtouyu.png) ![fatfat](img/fatfat.jpg)
 
 <font color=AliceBlue> **Welcome to my Github profile, Currently a movitated researcher/engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
@@ -36,7 +36,7 @@
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)]([mailto:zlmturnout@gmail.com](https://www.researchgate.net/profile/Limin-Zhou-4))
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:zlmturnout@gmail.com) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Limin-Zhou-4)
 
 ## GitHub stats
 
@@ -62,11 +62,13 @@
 ---
 ## Copyright
 
-Copyright (c) 2022 VerTicaL@zlm/zlmturnout
+Copyright (c) 2022 VerTicaL@zlm/zlmturnout  
+
 [![Copyright](https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-FBB040?style=flat&logo=Claris)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 
 <!-- Visitors count-->
-**Total hits** 
+**Total hits**  
+
 [![HitCount](https://hits.dwyl.com/zlmturnout/zlmturnout.svg?style=flat-square&show=unique)](http://hits.dwyl.com/zlmturnout/zlmturnout)
