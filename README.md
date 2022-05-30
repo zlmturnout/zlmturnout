@@ -33,6 +33,7 @@
 ### In actual life
 
 ![BugBug](/img/BugBugBug.jpg)![NoCoding](/img/Nocoding.jpg) ![NoBug](/img/NoBug.jpg)
+![BugBug](https://img.shields.io/badge/-BugBug-important?style=for-the-badge&logo=SmugMug)![BugBug](https://img.shields.io/badge/-No%20Coding-2becd5?style=for-the-badge&logo=Codemagic)![BugBug](https://img.shields.io/badge/-No%20Bug-e65441?style=for-the-badge&logo=Alacritty&logoColor=white)
 
 ## Contact Me
 
