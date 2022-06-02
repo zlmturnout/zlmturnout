@@ -66,7 +66,7 @@
 ![qiandaohu1](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMJQTSd6g_KyE5esg?e=Vv7CGd)
 ![qiandaohu2](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMZQZdspGHXq0kMRQ?e=KOqu9v)
 ![qiandaohu3](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMHvfis-9cvJdeEeg?e=xsw37f)
-![loadingbeauty](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMa1qwgyRpRKni6gQ?e=v77k1k)
+![loading](/img/loading.gif)
 ---
 ## Copyright
 
