@@ -35,7 +35,8 @@
 
 <!---![BugBug](/img/BugBugBug.jpg)![NoCoding](/img/Nocoding.jpg) ![NoBug](/img/NoBug.jpg)--->
 
-![BugBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMUgcrIH2H-wQ8mxA?e=nvPxwe) ![NoCoding](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMD4gjtKPH3IPa5wA?e=K8Rqpe) ![NoBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMCHdLi0iucuDQbhw?e=lxczPl)
+![BugBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMUgcrIH2H-wQ8mxA?e=nvPxwe) ![NoCoding](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMD4gjtKPH3IPa5wA?e=K8Rqpe) ![NoBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMCHdLi0iucuDQbhw?e=lxczPl)  
+
 ![BugBug](https://img.shields.io/badge/-BugBug-important?style=for-the-badge&logo=SmugMug)![BugBug](https://img.shields.io/badge/-No%20Coding-2becd5?style=for-the-badge&logo=Codemagic)![BugBug](https://img.shields.io/badge/-No%20Bug-e65441?style=for-the-badge&logo=Alacritty&logoColor=white)
 
 ## Contact Me
