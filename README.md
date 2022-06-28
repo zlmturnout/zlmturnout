@@ -21,7 +21,7 @@
 <!---![pangtouyu](/img/pangtouyu.png) ![fatfat](img/fatfat.jpg)
 <font color=AliceBlue>--->
 ![pangtouyu](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMFubUf-WKdE3hgzw?e=EcHfLP)   ![fatfat](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMTsTnBHt0TYnL3pA?e=nUN6na)
- **Welcome to my Github profile, Currently a movitated researcher/engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
+ **Welcome to my Github profile, Currently a movitated researcher&engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
 
 ## Code Style
 
@@ -31,7 +31,7 @@
 
 ![Love](https://img.shields.io/badge/-Commit%20with%20Love-EF1970?style=for-the-badge&logo=Undertale) ![Love](https://img.shields.io/badge/-Learn%20with%20Passion-35aeeb?style=for-the-badge&logo=React&logoColor=white) ![Love](https://img.shields.io/badge/-Code%20with%20Paitence-ec5317?style=for-the-badge&logo=Odysee)
 
-### In actual life
+### In real life
 
 <!---![BugBug](/img/BugBugBug.jpg)![NoCoding](/img/Nocoding.jpg) ![NoBug](/img/NoBug.jpg)--->
 
