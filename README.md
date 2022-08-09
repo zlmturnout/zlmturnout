@@ -46,9 +46,11 @@
 ## GitHub stats
 
 [
-  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=zlmturnout&theme=dracula&show_icons=true)
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zlmturnout&theme=react&border=e752f2&hide_border=false)
+  ![Readme Stats](https://github-readme-stats.vercel.app/api?username=zlmturnout&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zlmturnout&theme=bear&border=e752f2&hide_border=false)
 ](https://github.com/zlmturnout)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlmturnout&layout=compact&hide=html,javascript)](https://github.com/zlmturnout)
 
 [My Website hosted in github.io](https://zlmturnout.github.io/)
 
