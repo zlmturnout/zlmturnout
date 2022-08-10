@@ -3,6 +3,7 @@
 -->
 <!-- Title-->
 # Hi, VerTicaL@zlm/zlmturnout here! <img src="/img/handrubber.gif" width="40" type="image/gif"/>
+
 <!-- Coding Badges-->
 [![Python](https://img.shields.io/badge/-Python%20-%233776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org)
 [![C++](https://img.shields.io/badge/-C%2FC%2B%2B%20-brightgreen?style=flat&logo=Claris)](https://www.stroustrup.com/)
@@ -22,6 +23,47 @@
 <font color=AliceBlue>--->
 ![pangtouyu](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMFubUf-WKdE3hgzw?e=EcHfLP)   ![fatfat](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMTsTnBHt0TYnL3pA?e=nUN6na)
  **Welcome to my Github profile, Currently a movitated researcher&engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
+
+<details>
+<summary>
+Curriculum Vitae
+</summary>
+<edu>
+
+## **Education**
+
+**2010-2014**
+**University of Science and Technology of China (USTC)**
+Hefei, Anhui Province, China
+BSc, Condensed Matter,School of Gifted Young
+
+**2017-2018**
+**Pohang University of Science and Technology (POSTECH)**
+Pohang, South Korea
+Student Cultural Exchange in Pohang Accelerator Laboratory(PAL)
+
+**2014-2019**
+**University of Chinese Academy of Sciences**
+Shanghai, China
+Doctor of Philosophy, Nuclear Technology and Applications
+
+## Research interest
+
+Novel properties (mechanical, electronic, mangetic) of energy materials, soft matter, bubbles, especially in aqueous environments . Methods: Soft X-ray techniques including absorption and emission spectroscopy(STXM, TEY, RIXS), Atomic force microscopy, MD simulations. Currently focus on revealing the intrinsic properties of nanoscale bubbles in water by X-ray spectroscopy.
+
+## Projects and fund
+
+Hosting a Youth project of National Natural Science Foundation of China (NSFC) from 2021-2023.
+
+## Publications
+
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Limin-Zhou-4)  
+
+[![GoogleScholar](https://img.shields.io/badge/-GoogleScholar-%234285F4?logo=Google%20Scholar&logoColor=white&style=for-the-badge)](https://scholar.google.com/citations?user=JVzHu7cAAAAJ&hl=zh-CN)
+
+</edu>
+</details>
+
 
 ## Code Style
 
@@ -50,7 +92,7 @@
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zlmturnout&theme=bear&border=e752f2&hide_border=false)
 ](https://github.com/zlmturnout)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlmturnout&layout=compact&hide=html,javascript)](https://github.com/zlmturnout)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlmturnout&layout=compact&hide=html,javascript,css)](https://github.com/zlmturnout)
 
 [My Website hosted in github.io](https://zlmturnout.github.io/)
 
@@ -59,18 +101,25 @@
 <!---![celebrate](/img/IMG_20210701_203624.jpg)
 ![0701](/img/IMG_20210630_210319.jpg)--->
 ![celebrate](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMQIitQwArmyRbJFQ?e=dE9tle)![0701](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMY29OrM8FGlehfVg?e=xcV0xN)
+
 ## Relax time
 
 **The three-thousand-island lake(千岛湖), ZheJiang Province**
+
 <!---![qiandaohu1](/img/IMG_20211004_085751.jpg)
 ![qiandaohu2](/img/IMG_20211003_143723.jpg)
 ![qiandaohu3](/img/IMG_20211003_173817.jpg)--->
 
 ![qiandaohu1](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMJQTSd6g_KyE5esg?e=Vv7CGd)
+
 ![qiandaohu2](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMZQZdspGHXq0kMRQ?e=KOqu9v)
+
 ![qiandaohu3](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMHvfis-9cvJdeEeg?e=xsw37f)
+
 ![loading](/img/loading.gif)
+
 ---
+
 ## Copyright
 
 Copyright (c) 2022 VerTicaL@zlm/zlmturnout  
