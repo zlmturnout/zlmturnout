@@ -21,7 +21,7 @@
 <a> About Me </a> 
 <!---![pangtouyu](/img/pangtouyu.png) ![fatfat](img/fatfat.jpg)
 <font color=AliceBlue>--->
-![pangtouyu](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMFubUf-WKdE3hgzw?e=EcHfLP)   ![fatfat](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMTsTnBHt0TYnL3pA?e=nUN6na)
+![pangtouyu](/img/pangtouyu.png)   ![fatfat](/img/fatfat.jpg)
  **Welcome to my Github profile, Currently a movitated researcher&engineer in Chinese Academy of Sciences(CAS) from Shanghai.** </font>
 
 <details>
@@ -77,7 +77,7 @@ Hosting a Youth project of National Natural Science Foundation of China (NSFC) f
 
 <!---![BugBug](/img/BugBugBug.jpg)![NoCoding](/img/Nocoding.jpg) ![NoBug](/img/NoBug.jpg)--->
 
-![BugBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMUgcrIH2H-wQ8mxA?e=nvPxwe) ![NoCoding](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMD4gjtKPH3IPa5wA?e=K8Rqpe) ![NoBug](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMCHdLi0iucuDQbhw?e=lxczPl)  
+![BugBug](/img/BugBug.jpg) ![NoCoding](/img/Nocoding.gif) ![NoBug](/img/NoBug.jpg)  
 
 ![BugBug](https://img.shields.io/badge/-BugBug-important?style=for-the-badge&logo=SmugMug) ![BugBug](https://img.shields.io/badge/-No%20Coding-2becd5?style=for-the-badge&logo=Codemagic) ![BugBug](https://img.shields.io/badge/-No%20Bug-e65441?style=for-the-badge&logo=Alacritty&logoColor=white)
 
@@ -98,23 +98,19 @@ Hosting a Youth project of National Natural Science Foundation of China (NSFC) f
 
 ## Enjoy Pictures from ShangHai
 
-<!---![celebrate](/img/IMG_20210701_203624.jpg)
-![0701](/img/IMG_20210630_210319.jpg)--->
-![celebrate](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMQIitQwArmyRbJFQ?e=dE9tle)![0701](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMY29OrM8FGlehfVg?e=xcV0xN)
+![celebrate](/img/IMG_20210701_203624.jpg)
+![0701](/img/IMG_20210630_210319.jpg)
+
 
 ## Relax time
 
 **The three-thousand-island lake(千岛湖), ZheJiang Province**
 
-<!---![qiandaohu1](/img/IMG_20211004_085751.jpg)
+![qiandaohu1](/img/IMG_20211004_085751.jpg)
 ![qiandaohu2](/img/IMG_20211003_143723.jpg)
-![qiandaohu3](/img/IMG_20211003_173817.jpg)--->
+![qiandaohu3](/img/IMG_20211003_173817.jpg)
 
-![qiandaohu1](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMJQTSd6g_KyE5esg?e=Vv7CGd)
 
-![qiandaohu2](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMZQZdspGHXq0kMRQ?e=KOqu9v)
-
-![qiandaohu3](http://1drv.stdfirm.com/u/s!Al3KXNVOfm79gdMHvfis-9cvJdeEeg?e=xsw37f)
 
 ![loading](/img/loading.gif)
 
