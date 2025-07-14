@@ -91,7 +91,7 @@ Hosting a Youth project of National Natural Science Foundation of China (NSFC) f
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zlmturnout&theme=bear&border=e752f2&hide_border=false)
 ](https://github.com/zlmturnout)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlmturnout&layout=compact&hide=html,javascript,css)](https://github.com/zlmturnout)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlmturnout&layout=compact&hide=html,javascript,css,markdown,jupyter%20notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)](https://github.com/zlmturnout)
 
 [My Website hosted in github.io](https://zlmturnout.github.io/)
 
@@ -117,11 +117,13 @@ Hosting a Youth project of National Natural Science Foundation of China (NSFC) f
 
 ## Copyright
 
-Copyright (c) 2022 VerTicaL@zlm/zlmturnout  
+Copyright (c) 2022-2025 VerTicaL@zlm/zlmturnout  
 
 [![Copyright](https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-FBB040?style=flat&logo=Claris)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 <!-- Visitors count-->
 **Total hits**  
 
-[![HitCount](https://hits.dwyl.com/zlmturnout/zlmturnout.svg?style=flat-square&show=unique)](http://hits.dwyl.com/zlmturnout/zlmturnout)
+<!--[![HitCount](https://hits.dwyl.com/zlmturnout/zlmturnout.svg?style=flat-square&show=unique)](http://hits.dwyl.com/zlmturnout/zlmturnout)-->
+
+[![zlmturnout github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zlmturnout&theme=dracula&custom_title=My%20Activity%20On%20Github~Last%20Two%20month&days=60&bg_color=8470FF&point=24292&area=true&hide_border=true)](https://github.com/zlmturnout)
